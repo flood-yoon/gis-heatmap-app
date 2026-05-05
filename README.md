@@ -20,7 +20,13 @@
 ## ▶️ 실행 방법
 1. 프로그램 실행
 <img src="images/Form1.png" width="600"/>
-3. `data/sample.csv` 파일 로드
+2. View-Heat-Map을 클릭하면 두번째 폼으로 넘어갑니다
+<img src="images/Form2.png" width="600"/>
+3. location을 선택해 지오코딩 된 관광지 포인트 데이터 위치를 지도상에서 확인할 수 있습니다
+<img src="images/location.png" width="600"/>
+4. Sale그룹 박스에서는 히트맵을 볼 수 있습니다 ex)Sale_AMT
+<img src="images/sale_amount.png" width="600"/>
+
 
 ---
 
