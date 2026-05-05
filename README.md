@@ -19,7 +19,8 @@
 
 ## ▶️ 실행 방법
 1. 프로그램 실행
-2. `data/sample.csv` 파일 로드
+<img src="images/form1.png" width="600"/>
+3. `data/sample.csv` 파일 로드
 
 ---
 
