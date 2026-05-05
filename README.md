@@ -60,7 +60,16 @@ It aims to provide an intuitive understanding of data density by displaying it o
 
 ## ▶️ How to Run
 1. Run the application  
-2. Load the `data/sample.csv` file  
+<img src="images/Form1.png" width="600"/>
+
+2. Click View Heat Map to open the second form  
+<img src="images/Form2.png" width="600"/>
+
+3. Select a location to display geocoded tourist point data on the map  
+<img src="images/location.png" width="600"/>
+
+4. In the **Sale** group box, you can visualize the heatmap (e.g., `Sale_AMT`)  
+<img src="images/sale_amount.png" width="600"/>
 
 ---
 
