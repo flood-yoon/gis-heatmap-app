@@ -24,13 +24,13 @@ This is a development-oriented prototype aimed at validating spatial data proces
 - Heatmap generation based on sales data
 ### How to Run
  
-1. Run the application
+1. Run the application<br>
    <img src="images/Form1.png" width="600"/>
-2. Click **View Heat Map** to open the second form
+2. Click **View Heat Map** to open the second form<br>
    <img src="images/Form2.png" width="600"/>
-3. Select a location to display geocoded tourist point data on the map
+3. Select a location to display geocoded tourist point data on the map<br>
    <img src="images/location.png" width="600"/>
-4. In the **Sale** group box, select a metric to visualize the heatmap (e.g. `Sale_AMT`)
+4. In the **Sale** group box, select a metric to visualize the heatmap (e.g. `Sale_AMT`)<br>
    <img src="images/sale_amount.png" width="600"/>
 ### Tech Stack
  
@@ -60,13 +60,13 @@ This is a development-oriented prototype aimed at validating spatial data proces
 - 매출 데이터 기반 히트맵 생성
 ### 실행 방법
  
-1. 프로그램 실행
+1. 프로그램 실행<br>
    <img src="images/Form1.png" width="600"/>
-2. **View Heat Map** 클릭 시 두 번째 폼으로 이동
+2. **View Heat Map** 클릭 시 두 번째 폼으로 이동<br>
    <img src="images/Form2.png" width="600"/>
-3. location 선택 시 지오코딩된 관광지 포인트 데이터를 지도에서 확인
+3. location 선택 시 지오코딩된 관광지 포인트 데이터를 지도에서 확인<br>
    <img src="images/location.png" width="600"/>
-4. **Sale** 그룹 박스에서 히트맵 확인 (예: `Sale_AMT`)
+4. **Sale** 그룹 박스에서 히트맵 확인 (예: `Sale_AMT`)<br>
    <img src="images/sale_amount.png" width="600"/>
 ### 기술 스택
  
